@@ -1,4 +1,4 @@
-# pageSwitch
+# PageSwitch
 > 全屏滚动轮播插件
 
 ## 立即使用
